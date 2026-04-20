@@ -1,3 +1,3 @@
 # A cool and professional website
 
-some garbage description
+Imagine a proper description here, thanks!
